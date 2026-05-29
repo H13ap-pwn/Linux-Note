@@ -33,3 +33,4 @@
 - `chmod u/g/o/a<user/group,other,all> +<thêm quyền> hoặc -<xóa quyền> r/w/x/s(SUID) <tên file>`: Thêm, xóa quyền làm việc với file của u/g/o/a
 - `<command1>; <command2>` : Nối chuỗi các lệnh thay vì phải enter từng lệnh
 - `<command1> && <command2>` : Chạy lệnh 2 nếu lệnh 1 success
+- `<command2> && <command2>` : Chạy lệnh 2 nếu lệnh 1 fail
