@@ -38,6 +38,9 @@
 - `bash <file.sh>` : Chạy file shell script
 - `$1 $2`: Trong script shell là đối số
 - `screen`: Mở terminal mới song song hiện tại
-- `Ctrl A + D`: Quay về terminal gốc
-- `screen -r`: Quay lại terminal mới
-- `screen -ls`: Liệt kê các terminal mới
+     + `Ctrl A + D`: Quay về terminal gốc
+     + `screen -r`: Quay lại terminal mới
+     + `screen -ls`: Liệt kê các terminal mới
+- `tmux`: Mở terminal mới song song
+     + `Ctrl B + D`: Quay về terminal gốc
+     + `tmux attach`: Quay lại terminal mới
