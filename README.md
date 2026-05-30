@@ -36,3 +36,4 @@
 - `<command2> && <command2>` : Chạy lệnh 2 nếu lệnh 1 fail
 - `<file.sh>` : Tạo file shell script
 - `bash <file.sh>` : Chạy file shell script
+- `$1 $2`: Trong script shell là đối số
