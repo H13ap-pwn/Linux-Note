@@ -44,3 +44,4 @@
 - `tmux`: Mở terminal mới song song
      + `Ctrl B + D`: Quay về terminal gốc
      + `tmux attach`: Quay lại terminal mới
+-`PATH`: Là biến môi trường, như một cái bản đồ, nếu set `PATH=" "` rỗng như này thì gần như ko kích hoạt được lệnh nào, như mù đường, ls cũng dựa vào PATH để liệt kê
