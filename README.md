@@ -37,3 +37,6 @@
 - `<file.sh>` : Tạo file shell script
 - `bash <file.sh>` : Chạy file shell script
 - `$1 $2`: Trong script shell là đối số
+- `screen`: Mở terminal mới song song hiện tại
+- `Ctrl A + D`: Quay về terminal gốc
+- `screen -r`: Quay lại terminal mới
