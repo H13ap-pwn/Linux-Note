@@ -47,5 +47,5 @@
 - `PATH`: Là biến môi trường, như một cái bản đồ, nếu set `PATH=" "` rỗng như này thì gần như ko kích hoạt được lệnh nào, như mù đường, ls cũng dựa vào PATH để liệt kê
 - `which ...`: In ra đường dẫn đến `...`
 - `.bashrc` : Là file cấu hình tự động chạy các lệnh trong nó khi mở terminal
-              + Người thường : Cài đặt môi trường, tạo alias(phím tắt)
-              + Hacker : Ghi lệnh như `cat /flag`, lệnh gửi mật khẩu về máy hacker
+    + Người thường : Cài đặt môi trường, tạo alias(phím tắt)
+    + Hacker : Ghi lệnh như `cat /flag`, lệnh gửi mật khẩu về máy hacker
