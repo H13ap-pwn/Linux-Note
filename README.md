@@ -1,6 +1,7 @@
 - `cd` : Di chuyển đến folder/file
 - `grep <string cần tìm> <path>` : Tìm string trong 
-- `cat` : Mở file 
+- `cat` : Mở file
+    + `cat` ko có tham số ở cuối : Hứng toàn bộ dữ liệu input -> in thẳng ra màn hình
 - `diff <path1> <path2>` : so sánh xem chỗ nào khác trong 2 file
 - `ls` : Liệt kê trong folder có những folder/file nào
     + `ls -a`: Liệt kê file bị ẩn ( file có dấu . ở đầu )
