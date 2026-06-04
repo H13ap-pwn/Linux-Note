@@ -32,6 +32,7 @@
 - `chgrp <tên user> <file>`:Chuyển đổi quyền sở hữu file sang group khác
 - `id` : Thông tin về user như là User ID, thuộc group nào, tên gì
 - `chmod u/g/o/a<user/group,other,all> +<thêm quyền> hoặc -<xóa quyền> r/w/x/s(SUID) <tên file>`: Thêm, xóa quyền làm việc với file của u/g/o/a
+- `chmod +t ...` : sticky bit, chỉ cho phép những người sở hữu file được quyền đổi tên hoặc xóa các file nằm trong thư mục đó
 - `<command1>; <command2>` : Nối chuỗi các lệnh thay vì phải enter từng lệnh
 - `<command1> && <command2>` : Chạy lệnh 2 nếu lệnh 1 success
 - `<command2> || <command2>` : Chạy lệnh 2 nếu lệnh 1 fail
