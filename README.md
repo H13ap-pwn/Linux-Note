@@ -52,3 +52,4 @@
 - `.bashrc` : Là file cấu hình tự động chạy các lệnh trong nó khi mở terminal
     + Người thường : Cài đặt môi trường, tạo alias(phím tắt)
     + Hacker : Ghi lệnh như `cat /flag`, lệnh gửi mật khẩu về máy hacker
+-`ps aux` : Xem toàn bộ processes(tiến trình) và command( có thể nhạy cảm như nhập tk, mk)
