@@ -10,6 +10,7 @@
 - `~` : Thay thế, tương đương /home/...
 - `touch <tên file>` : Tạo file
 - `rm <tên file>` : Xóa file
+- `rm -rf` : Xóa sạch tất cả
 - `mv <path1> <path2>` : Di chuyển file 
 - `cp <path1> <path2>` : Sao chép và dán
 - `mkdir <tên file>`: Tạo folder
