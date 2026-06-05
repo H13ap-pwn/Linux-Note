@@ -14,7 +14,7 @@
 - `cp <path1> <path2>` : Sao chép và dán
 - `mkdir <tên file>`: Tạo folder
 - `find <Phạm vi tìm kiếm> -<tiêu chí tìm kiếm>`: Tìm file theo tiêu chí ví dụ : find / -name xyz
-- `ln -s <path1> <path2>` : Tạo symlink liên kết mềm, tương tác với path2 -> tương tác với path 1 ( path2 như kiểu con trỏ, mặt nạ)
+- `ln -s <path1> <path2>` : Tạo symlink liên kết mềm, tương tác với path2 -> tương tác với path 1 ( path2 như kiểu con trỏ, mặt nạ và file ở path2 chưa tồn tại)
 - `file <tên file>` : Cho biết tên, loại file, có thể nhận ra symlink
 - `echo <...> > <file>`: Lấy output echo ghi đè vào file
 - `echo <...> >> <file>`: Lấy output echo ghi nối thêm vào file
