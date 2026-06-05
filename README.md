@@ -55,3 +55,4 @@
     + Hacker : Ghi lệnh như `cat /flag`, lệnh gửi mật khẩu về máy hacker
 - `ps aux` : Xem toàn bộ processes(tiến trình) và command( có thể nhạy cảm như nhập tk, mk)
 - `Fork Bomb` : Làm đứng sập sever bằng cách chạy nhiều tiến trình(attack DoS) bằng cách gửi `:(){ :|:& };: & :(){ :|:& };: & :(){ :|:& };:`
+- `yes > file.txt` : Làm đầy ổ đĩa 
