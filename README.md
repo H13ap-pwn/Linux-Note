@@ -46,6 +46,7 @@
 - `tmux`: Mở terminal mới song song
      + `Ctrl B + D`: Quay về terminal gốc
      + `tmux attach`: Quay lại terminal mới
+     + `Ctrl B + %`: Chia đôi màn hình
 - `PATH`: Là biến môi trường, như một cái bản đồ, nếu set `PATH=" "` rỗng như này thì gần như ko kích hoạt được lệnh nào, như mù đường, ls cũng dựa vào PATH để liệt kê, mỗi đường dẫn cách nhau bằng `:`
 - `echo $PATH`: Liệt kê các đường dẫn, trái -> phải là thứ tự ưu tiên tìm kiếm
 - `which ...`: In ra đường dẫn đến `...`
