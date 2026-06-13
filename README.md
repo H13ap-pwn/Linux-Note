@@ -57,3 +57,4 @@
 - `ps aux` : Xem toàn bộ processes(tiến trình) và command( có thể nhạy cảm như nhập tk, mk)
 - `Fork Bomb` : Làm đứng sập sever bằng cách chạy nhiều tiến trình(attack DoS) bằng cách gửi `:(){ :|:& };: & :(){ :|:& };: & :(){ :|:& };:`
 - `yes > file.txt` : Làm đầy ổ đĩa 
+- file có `-` ở đầu (dashed filename) : Để mở dùng cat và thêm ./
