@@ -2,6 +2,8 @@
 - `grep <string cần tìm> <path>` : Tìm string trong 
 - `cat` : Mở file
     + `cat` ko có tham số ở cuối : Hứng toàn bộ dữ liệu input -> in thẳng ra màn hình
+    + `cat ./` : Dùng để mở các file có `-` ở đầu (dashed filename)
+    + `cat " "` : Dùng để mở file tên có khoảng trắng`
 - `diff <path1> <path2>` : so sánh xem chỗ nào khác trong 2 file
 - `ls` : Liệt kê trong folder có những folder/file nào
     + `ls -a`: Liệt kê file bị ẩn ( file có dấu . ở đầu )
