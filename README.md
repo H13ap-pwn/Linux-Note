@@ -61,3 +61,5 @@
 - `yes > file.txt` : Làm đầy ổ đĩa 
 - file có `-` ở đầu (dashed filename) : Để mở dùng cat và thêm ./
 - Xử lý file có khoảng trắng trong tên, để mở cần cho full name vào dấu `" "`
+- `sort` : Sắp xếp
+- `uniq -u` : Dòng nào lặp là bị xoá
