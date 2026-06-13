@@ -64,3 +64,5 @@
 - `sort` : Sắp xếp
 - `uniq -u` : Dòng liền kề nhau nào lặp là bị xoá
 - `strings <file>` : In ra tất cả chuỗi có nghĩa trong file nhị phân
+- `base64 <file>` : encode nội dung cho trong file
+    + `base64 -d <file>` : decode nội dung trong file
