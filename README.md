@@ -63,3 +63,4 @@
 - Xử lý file có khoảng trắng trong tên, để mở cần cho full name vào dấu `" "`
 - `sort` : Sắp xếp
 - `uniq -u` : Dòng liền kề nhau nào lặp là bị xoá
+- `strings <file>` : In ra tất cả chuỗi có nghĩa trong file nhị phân
