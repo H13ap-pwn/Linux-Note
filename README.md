@@ -68,4 +68,6 @@
     + `base64 -d <file>` : decode nội dung trong file
 - `history` : Xem các lệnh đã gõ
 - `wget <link>` : Download
-- `ssh <name>@<IP address>`: Kết nối tới tài khoản
+- `ssh <name>@<IP address>`: Kết nối tới máy khác
+- `scp <file> <name>@<IP address>:<link>` : copy file từ máy này -> máy khác
+- `scp <name>@<IP address>:<link> <file>` : copy file từ máy khác -> máy này
