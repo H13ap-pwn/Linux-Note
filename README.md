@@ -68,3 +68,4 @@
     + `base64 -d <file>` : decode nội dung trong file
 - `history` : Xem các lệnh đã gõ
 - `wget <link>` : Download
+- `ssh <name>@<IP address>`: Kết nối tới tài khoản
