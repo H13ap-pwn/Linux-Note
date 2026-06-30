@@ -71,3 +71,5 @@
 - `ssh <name>@<IP address>`: Kết nối tới máy khác
 - `scp <file> <name>@<IP address>:<link>` : copy file từ máy này -> máy khác
 - `scp <name>@<IP address>:<link> <file>` : copy file từ máy khác -> máy này
+- `python3 -m  http.server` : Biến thư mục hiện tại thành websever tạm thời
+    + `wget http://<IP>:<port>/<file>` : Lấy file cần sau khi biến thư mục thành websevẻ
