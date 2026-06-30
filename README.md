@@ -67,3 +67,4 @@
 - `base64 <file>` : encode nội dung cho trong file
     + `base64 -d <file>` : decode nội dung trong file
 - `history` : Xem các lệnh đã gõ
+- `wget <link>` : Download
