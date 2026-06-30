@@ -74,3 +74,5 @@
 - `python3 -m  http.server` : Biến thư mục hiện tại thành websever tạm thời
     + `wget http://<IP>:<port>/<file>` : Lấy file cần sau khi biến thư mục thành websevẻ
 - `systemctl <option> <service>`: Tương tác với tiến trình `systemd`
+- `Ctrl Z` or `&` : Đưa command vào chạy nền
+- `fg` : Đưa chạy nền ra thẳng màn hình
