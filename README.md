@@ -76,3 +76,4 @@
 - `systemctl <option> <service>`: Tương tác với tiến trình `systemd`
 - `Ctrl Z` or `&` : Đưa command vào chạy nền
 - `fg` : Đưa chạy nền ra thẳng màn hình
+- `telnet <IP> <Port>` : Giống `ssh` nhưng thường chỉ dùng test nhanh xem cổng mở ko
