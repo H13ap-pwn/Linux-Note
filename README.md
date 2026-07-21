@@ -77,3 +77,4 @@
 - `Ctrl Z` or `&` : Đưa command vào chạy nền
 - `fg` : Đưa chạy nền ra thẳng màn hình
 - `telnet <IP> <Port>` : Giống `ssh` nhưng thường chỉ dùng test nhanh xem cổng mở ko
+- `nslookup <link>` : Xem IP của miền
